@@ -6,7 +6,7 @@ print(type(marks))
 
 
 student = ["Sachin", 54.6, 22.1]
-print(student)
+print(student)     
 student[0] = "kgf"
 
 print(student)
